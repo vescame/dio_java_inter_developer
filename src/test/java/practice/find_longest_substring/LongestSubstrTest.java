@@ -1,4 +1,4 @@
-package find_longest_substring;
+package practice.find_longest_substring;
 
 import org.junit.jupiter.api.Test;
 

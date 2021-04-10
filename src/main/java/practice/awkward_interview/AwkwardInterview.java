@@ -1,4 +1,4 @@
-package awkward_interview;
+package practice.awkward_interview;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

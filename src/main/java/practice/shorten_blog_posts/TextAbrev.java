@@ -1,4 +1,4 @@
-package shorten_blog_posts;
+package practice.shorten_blog_posts;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

@@ -1,9 +1,8 @@
-package shorten_blog_posts;
+package practice.shorten_blog_posts;
 
 import org.junit.jupiter.api.Test;
 
-import java.io.*;
-
+import java.io.IOException;
 
 public class TextAbrevTest {
     @Test

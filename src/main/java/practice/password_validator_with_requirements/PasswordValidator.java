@@ -1,4 +1,4 @@
-package password_validator_with_requirements;
+package practice.password_validator_with_requirements;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

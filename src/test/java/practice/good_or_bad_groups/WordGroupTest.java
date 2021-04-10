@@ -1,4 +1,4 @@
-package good_or_bad_groups;
+package practice.good_or_bad_groups;
 
 import org.junit.jupiter.api.Test;
 
